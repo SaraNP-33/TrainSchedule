@@ -1,0 +1,25 @@
+.jumbotron{
+    background-image: url("../images/traintracks2.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color:white;
+    text-align: center;
+    font-weight: bolder !important;
+    
+}
+
+.card-header{
+    background-color: rgb(8, 113, 8);
+    color: white;
+    text-align: center;
+}
+#TrainBtn{
+    background-color: rgb(8, 113, 8);
+
+}
+
+.card{
+    
+    margin:20px;
+    border: 2px solid rgb(8, 113, 8);
+}
